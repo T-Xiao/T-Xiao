@@ -1,4 +1,4 @@
-# Hi there! I'm Ting Xiao.
+## Hi there! I'm Ting Xiao.
 
 <!--
 **T-Xiao/T-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">A data scientist at the University of Mississippi.</br> 
-Please check my <a href="https://www.linkedin.com/in/ting-xiao-01ab7542/"> LinkedIn</a></p>
+<p align="left">I'm a data scientist at the University of Mississippi.</br> 
+Please check my <a href="https://www.linkedin.com/in/ting-xiao-01ab7542/"> LinkedIn.</a></p>
 
