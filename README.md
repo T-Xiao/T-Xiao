@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">A data scientist at the University of Mississippi.</br> 
+<p align="left">A data scientist at the University of Mississippi.</br> 
 Please check my <a href="https://www.linkedin.com/in/ting-xiao-01ab7542/"> LinkedIn</a></p>
 
