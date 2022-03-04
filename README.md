@@ -1,5 +1,3 @@
-## Hi there! I'm Ting Xiao.
-
 <!--
 **T-Xiao/T-Xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 Please check my <a href="https://www.linkedin.com/in/ting-xiao-01ab7542/"> LinkedIn.</a></p>
 
 <h1 align="center">Hi 👋, I'm Ting Xiao</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist at the University of Mississippi.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
